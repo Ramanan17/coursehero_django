@@ -1,0 +1,10 @@
+Name, Class, Address, Vehicle (Make, Model, Year, Mileage), Salary Information
+Amy,Full, 100 W Campbell Road, Richardson, Texas,75080, Honda Civic 2014 50000,60000
+Bob, Full, 200 W Campbell Road, Richardson, Texas,75080, Toyota Camry 2010 60000,80000
+Evan, Full, 300 W Campbell Road, Richardson, Texas,75080, BMW X3 2016 30000,120000
+Grace, Hourly, 400 W Campbell Road, Richardson, Texas,75080, Kia Rio 2005 150000,Hours=50 Rate=20
+James, Hourly, 500 W Campbell Road, Richardson, Texas,75080, Mazda Mazda3 2010 80000, Hours=35 Rate=25
+Luna, Hourly, 600 W Campbell Road, Richardson, Texas,75080, Nissan Sentra 2005 160000, Hours=20 Rate=15
+Michael, Consultant, 700 W Campbell Road, Richardson, Texas,75080, Ford Ranger 2011 80000, Hours=40 Type=1
+Tom, Consultant, 800 W Campbell Road, Richardson, Texas,75080, Mercedes- Benz GLE350 2018 30000, Hours=50 Type=2
+Zoey, Consultant, 900 W Campbell Road, Richardson, Texas,75080, Tesla Model3 2018 15000, Hours=30 Type=3
